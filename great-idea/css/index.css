@@ -218,3 +218,21 @@ nav .nav a {
 	width: 100%;
 	justify-content: space-between;
 }
+
+ul{
+	list-style-type: square;
+}
+
+.box{
+	border:1px solid black;
+	display:flex;
+	display:block;
+	width:420px;
+	height:260px;
+
+}
+.boxes{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: space-between;
+}
